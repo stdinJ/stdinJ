@@ -1,7 +1,6 @@
 Olá! Bem vindo ao meu repositorio! Sou o João Pedro, desenvolvedor FullStack
 
 - 🔭 Trabalhando com Desenvolvimento FullStack e Suporte de TI
-- 🌱 Estou aprendendo sobre linguagens Back - end
 - 📫 contate me no email: jotadev4@gmail.com
 
 <div>
