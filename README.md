@@ -3,9 +3,9 @@ Olá! Bem vindo ao meu repositorio! Sou João Pedro, estudante de Ciências da C
 - 📫 contate me no email: jotadev4@gmail.com
 
 <div>
-  <a href="https://github.com/jotadev4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotadev4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotadev4&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/stdinJ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stdinJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdinJ&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
