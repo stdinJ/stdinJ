@@ -1,5 +1,4 @@
 Olá! Bem vindo ao meu repositorio! Sou João Pedro, estudante de Ciências da Computação
-- 🔭 Trabalhando com Desenvolvimento FullStack e Suporte de TI
 - 📫 contate me no email: jotadev4@gmail.com
 
 <div>
