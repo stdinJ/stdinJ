@@ -65,8 +65,8 @@ myProfile.showProfile();
 
 <div align="center">
   <a href="https://github.com/stdinJ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPMach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMach&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stdinJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdinJ&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
