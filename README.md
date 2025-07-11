@@ -34,11 +34,6 @@ myProfile.showProfile();
 
 ---
 
-## 🧠 Sobre mim
-
-Atualmente curso Ciência da Computação na PUC Minas e atuo como estagiário em TI. Tenho experiência prática em automações com PowerShell e Bash, além de desenvolver APIs com Java (Spark e Spring Boot), interfaces web com React e bancos de dados como PostgreSQL e MySQL. Também gosto de explorar ideias inovadoras, como no projeto **Save Screen Kids**, que combina backend, IA e IoT.
-
----
 
 ## 🛠️ Tecnologias que utilizo
 
@@ -68,10 +63,8 @@ Atualmente curso Ciência da Computação na PUC Minas e atuo como estagiário e
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/JPMach">
+  <a href="https://github.com/stdinJ">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPMach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMach&layout=compact&langs_count=7&theme=dracula"/>
   </a>
@@ -88,6 +81,4 @@ Atualmente curso Ciência da Computação na PUC Minas e atuo como estagiário e
 </div>
 
 ---
-
-## 💡 Um pouco de código para te inspirar
 
