@@ -1,6 +1,6 @@
 <h1 align="center">Olá! 👋 Seja bem-vindo ao meu perfil!</h1>
 
-<p align="center">Sou <strong>João Pedro</strong>, estudante de Ciência da Computação na PUC Minas e apaixonado por tecnologia, desenvolvimento de sistemas e automações!</p>
+<p align="center">Sou João Pedro, estudante de Ciência da Computação na PUC Minas e apaixonado por tecnologia, desenvolvimento de sistemas e automações!</p>
 
 ```typescript
 type Dev = { name: string; skills: string[] };
@@ -64,7 +64,8 @@ myProfile.showProfile();
 <div align="center">
   <a href="https://github.com/stdinJ">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stdinJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdinJ&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://raw.githubusercontent.com/username/username/main/github-metrics.svg" />
+
   </a>
 </div>
 
