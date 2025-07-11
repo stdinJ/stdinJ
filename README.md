@@ -63,9 +63,11 @@ myProfile.showProfile();
 
 <div align="center">
   <a href="https://github.com/stdinJ">
+    <!-- GitHub Stats Card -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stdinJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img src="https://raw.githubusercontent.com/username/username/main/github-metrics.svg" />
-
+    
+    <!-- GitHub Metrics SVG (corrigido) -->
+    <img src="https://raw.githubusercontent.com/stdinJ/stdinJ/main/github-metrics.svg" />
   </a>
 </div>
 
