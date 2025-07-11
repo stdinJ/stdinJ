@@ -25,6 +25,7 @@ const myProfile = new DevProfile({
   ]
 });
 myProfile.showProfile();
+```
 
 - 💻 Desenvolvedor Full Stack em formação
 - 🚀 Explorando Java, JavaScript, React, Bash, SQL e muito mais
@@ -87,4 +88,6 @@ Atualmente curso Ciência da Computação na PUC Minas e atuo como estagiário e
 </div>
 
 ---
+
+## 💡 Um pouco de código para te inspirar
 
