@@ -1,24 +1,91 @@
-Olá! Bem vindo ao meu repositorio! Sou João Pedro, estudante de Ciências da Computação
-- 📫 contate me no email: jotadev4@gmail.com
+<h1 align="center">Olá! 👋 Seja bem-vindo ao meu perfil!</h1>
 
-<div>
-  <a href="https://github.com/stdinJ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stdinJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stdinJ&layout=compact&langs_count=7&theme=dracula"/>
+<p align="center">Sou <strong>João Pedro</strong>, estudante de Ciência da Computação na PUC Minas e apaixonado por tecnologia, desenvolvimento de sistemas e automações!</p>
+
+- 💻 Desenvolvedor Full Stack em formação
+- 🚀 Explorando Java, JavaScript, React, Bash, SQL e muito mais
+- 📊 Projetos com foco em backend, automações e dados
+- 📫 Contato: jotadev4@gmail.com
+
+---
+
+## 🧠 Sobre mim
+
+Atualmente curso Ciência da Computação na PUC Minas e atuo como estagiário em TI. Tenho experiência prática em automações com PowerShell e Bash, além de desenvolver APIs com Java (Spark e Spring Boot), interfaces web com React e bancos de dados como PostgreSQL e MySQL. Também gosto de explorar ideias inovadoras, como no projeto **Save Screen Kids**, que combina backend, IA e IoT.
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+### **Linguagens**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### **Front-end**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **Back-end & Banco de Dados**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Ferramentas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/JPMach">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPMach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPMach&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
+---
 
-  <div style="display: inline_block"><br>
-    <h1> Linguagens que utilizo no meu dia a dia </h1>
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mateus-Ts" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Mateus-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">      
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+## 🌐 Redes Sociais
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joão-pedro-machado-85714226a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
-  
- ##
-  
-  <div>
-  <a href="https://www.linkedin.com/in/joão-pedro-machado-85714226a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+---
+
+## 💡 Um pouco de código para te inspirar
+
+```typescript
+type Dev = { name: string; skills: string[] };
+class DevProfile {
+  constructor(private readonly developer: Dev) {}
+  showProfile() {
+    console.log(`
+      Name: ${this.developer.name}
+      Skills: ${this.developer.skills.join(", ")}
+    `);
+  }
+}
+
+const myProfile = new DevProfile({
+  name: "João Pedro Machado",
+  skills: [
+    "Java & Spring Boot",
+    "Node.js & Express",
+    "React & JS/TS",
+    "PostgreSQL & MySQL",
+    "Bash & PowerShell"
+  ]
+});
+myProfile.showProfile();
