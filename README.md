@@ -27,10 +27,10 @@ const myProfile = new DevProfile({
 myProfile.showProfile();
 ```
 
-- 💻 Desenvolvedor Full Stack em formação
-- 🚀 Explorando Java, JavaScript, React, Bash, SQL e muito mais
-- 📊 Projetos com foco em backend, automações e dados
-- 📫 Contato: jotadev4@gmail.com
+
+-  Explorando Java, JavaScript, React, Bash, SQL
+-  Projetos com foco em backend, automações 
+-  Contato: jotadev4@gmail.com
 
 ---
 
@@ -59,6 +59,14 @@ myProfile.showProfile();
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🌐 Redes Sociais
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joão-pedro-machado-85714226a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 ---
 
 <div align="center">
@@ -70,13 +78,5 @@ myProfile.showProfile();
 
 ---
 
-## 🌐 Redes Sociais
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joão-pedro-machado-85714226a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
 
