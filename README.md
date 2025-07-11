@@ -2,6 +2,30 @@
 
 <p align="center">Sou <strong>João Pedro</strong>, estudante de Ciência da Computação na PUC Minas e apaixonado por tecnologia, desenvolvimento de sistemas e automações!</p>
 
+```typescript
+type Dev = { name: string; skills: string[] };
+class DevProfile {
+  constructor(private readonly developer: Dev) {}
+  showProfile() {
+    console.log(`
+      Name: ${this.developer.name}
+      Skills: ${this.developer.skills.join(", ")}
+    `);
+  }
+}
+
+const myProfile = new DevProfile({
+  name: "João Pedro Machado",
+  skills: [
+    "Java & Spring Boot",
+    "Node.js & Express",
+    "React & JS/TS",
+    "PostgreSQL & MySQL",
+    "Bash & PowerShell"
+  ]
+});
+myProfile.showProfile();
+
 - 💻 Desenvolvedor Full Stack em formação
 - 🚀 Explorando Java, JavaScript, React, Bash, SQL e muito mais
 - 📊 Projetos com foco em backend, automações e dados
@@ -64,28 +88,3 @@ Atualmente curso Ciência da Computação na PUC Minas e atuo como estagiário e
 
 ---
 
-## 💡 Um pouco de código para te inspirar
-
-```typescript
-type Dev = { name: string; skills: string[] };
-class DevProfile {
-  constructor(private readonly developer: Dev) {}
-  showProfile() {
-    console.log(`
-      Name: ${this.developer.name}
-      Skills: ${this.developer.skills.join(", ")}
-    `);
-  }
-}
-
-const myProfile = new DevProfile({
-  name: "João Pedro Machado",
-  skills: [
-    "Java & Spring Boot",
-    "Node.js & Express",
-    "React & JS/TS",
-    "PostgreSQL & MySQL",
-    "Bash & PowerShell"
-  ]
-});
-myProfile.showProfile();
