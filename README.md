@@ -23,11 +23,9 @@ const myProfile = new DevProfile({
 });
 myProfile.showProfile();
 ```
+---
 
-
--  Explorando Java, JavaScript, React, Bash, SQL
--  Projetos com foco em backend, automações 
--  Contato: jotadev4@gmail.com
+## **Contato:** jotadev4@gmail.com
 
 ---
 
