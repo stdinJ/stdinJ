@@ -1,6 +1,3 @@
-<h1 align="center">Olá! 👋 Seja bem-vindo ao meu perfil!</h1>
-
-<p align="center">Sou João Pedro, estudante de Ciência da Computação na PUC Minas e apaixonado por tecnologia, desenvolvimento de sistemas e automações!</p>
 
 ```typescript
 type Dev = { name: string; skills: string[] };
