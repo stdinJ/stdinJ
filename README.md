@@ -1,3 +1,6 @@
+## 💻 DevProfileCard.tsx
+
+```tsx
 import React from 'react';
 
 type Dev = { name: string; skills: string[] };
