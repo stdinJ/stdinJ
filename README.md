@@ -1,4 +1,5 @@
-typescript
+
+```typescript
 type Dev = { name: string; skills: string[] };
 class DevProfile {
   constructor(private readonly developer: Dev) {}
@@ -21,7 +22,7 @@ const myProfile = new DevProfile({
   ]
 });
 myProfile.showProfile();
-
+```
 ---
 
 ## **Contato:** jotadev4@gmail.com
@@ -71,3 +72,5 @@ myProfile.showProfile();
 </div>
 
 ---
+
+
